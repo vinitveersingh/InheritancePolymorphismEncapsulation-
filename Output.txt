@@ -1,0 +1,33 @@
+I am a animal number : 1
+Animal 1 lives for : 100 years
+I am a animal number : 0
+I am a mamal number : 0
+I am  a mamal so I can feed my child breast milk.
+I am a animal number : 1
+I am a mamal number : 1
+Mamal 1 with automatic method upcasting lives for : 10 years
+Mamal 1 with manual method upcastinglives for : 10 years
+I am  a mamal so I can feed my child breast milk.
+I am a animal number : 2
+I am a mamal number : 2
+Mamal 1 lives for : 10 years
+Since I am downcasted back to a mamal.
+I am  a mamal so I can feed my child breast milk.
+I am a animal number : 3
+Animal 3 has blood type : Cold
+I am a animal number : 4
+Animal 4 has blood type : Warm
+I am a animal number : 3
+I am a mamal number : 3
+Mamals can only be warm blooded.
+Mamal 3 has blood type : null
+Notice how animal 3 was repeated twice. This is because while numbering we did not assume mamals are also animals.
+I am a animal number : 4
+I am a mamal number : 4
+Mamal 4 has blood type : Warm
+I am a animal number : 5
+I am a mamal number : 5
+Mamals can only be warm blooded.
+Animal 5 has blood type : null
+Mamal 5 has blood type : null
+You just observed runtime polymorphism.
